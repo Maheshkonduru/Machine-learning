@@ -1,4 +1,4 @@
-setwd("C:\\Jigsaw Classes\\Classes\\1. Corporate training\\Linear Regression in R")
+setwd("C:\\data science\\Linear Regression in R")
 data<-read.csv("DirectMarketing.csv")
 library(dplyr)
 library(ggplot2)
